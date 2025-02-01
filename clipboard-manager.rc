@@ -1,0 +1,4 @@
+#include <windows.h>
+
+// Define the icon resource using the icon file in the ./assets directory
+1 ICON "assets/copy.ico" 
