@@ -1,5 +1,7 @@
 # Advanced Clipboard Manager
 
+![image](https://github.com/user-attachments/assets/5d5deb02-62e2-43f6-bd65-2f667e96e1c8)
+
 ## Overview
 
 The Advanced Clipboard Manager is a Windows-based application that provides enhanced control and diagnostic information about the system clipboard. It allows you to:
