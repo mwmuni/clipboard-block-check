@@ -44,7 +44,7 @@ jobs:
         zig cc clipboard-manager.c clipboard-manager.res -o clipboard-manager.exe -luser32 -lcomctl32 -luxtheme -lgdi32 -Wl,/subsystem:windows -lpsapi -Ofast
 
     - name: Upload Build Artifacts
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v4  # Updated from v3 to v4
       with:
         name: clipboard-manager
         path: |
